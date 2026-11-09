@@ -5,4 +5,4 @@ pages_build_output_dir = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "aruna-db"
-database_id = "ISI_SETELAH_DATABASE_DIBUAT"
+database_id = "c0715c56-840b-40cb-8c09-76aafa977966"
