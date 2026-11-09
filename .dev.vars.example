@@ -1,0 +1,3 @@
+# Salin ke .dev.vars (jangan di-commit). Buat nilainya: node scripts/setup-secrets.mjs "password-anda-min-12-karakter"
+ADMIN_PATH=/control/GANTI_DENGAN_ACAK
+ADMIN_PASSWORD_HASH=GANTI
